@@ -1,0 +1,45 @@
+body {
+	background-color:#00FFFF;
+}
+
+h1   {
+	color: white;
+	text-align: center;
+}
+
+h2   {
+	color: white;
+	text-align: right;
+}
+
+p    {
+	font-family: andale mono, monospace;
+	font-size: 20px;
+}
+
+p    {
+	text-align: right;
+}
+
+form {
+	text-align: center;
+}
+
+p    {
+	background-color:#FFC0CB;
+}
+
+p    {
+	border-style: dotted;
+	border-width: 2px;
+}
+
+span#identified {
+  background-color: #4B0082;
+}
+
+body  {
+	color: #0000FF;
+}
+
+
